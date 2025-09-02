@@ -38,7 +38,7 @@
 - ✅ Visualized **word clouds & key insights**
 
 ### 📈 **Time Series Forecasting**
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-blue?style=for-the-badge&logo=github)](your-time-series-repo-link)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-blue?style=for-the-badge&logo=github)](https://github.com/NirmalanSK/sales-forecasting-project)
 - ✅ Implemented **ARIMA, SARIMA, FB Prophet**
 - ✅ Forecasted trends & evaluated accuracy
 - ✅ Visualized forecasts with interactive plots
