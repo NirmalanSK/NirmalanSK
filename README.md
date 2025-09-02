@@ -26,7 +26,7 @@
 
 ## 📂 Featured Projects
 ### 🧪 **A/B Testing with Machine Learning**
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-blue?style=for-the-badge&logo=github)](your-ab-testing-repo-link)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-blue?style=for-the-badge&logo=github)](https://github.com/NirmalanSK/AB-Testing-ML-Purchase-Prediction)
 - ✅ Performed A/B test to analyze conversion rate impact
 - ✅ Implemented **Logistic Regression & XGBoost**
 - ✅ Visualized **feature importance & metrics**
