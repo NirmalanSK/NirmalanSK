@@ -60,9 +60,7 @@ If you deploy the app on Streamlit Cloud, you can add a live badge:
 
 #### 📸 Screenshot
 <img width="1919" height="1013" alt="Screenshot 2025-09-15 134921" src="https://github.com/user-attachments/assets/1f325e95-dea5-41e0-9462-fdaba2bd9d95" />
-
 ---
-<img width="1919" height="1013" alt="Screenshot 2025-09-15 134921" src="https://github.com/user-attachments/assets/3b95f4a6-da89-44bd-ac9e-eabb5548a744" />
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NirmalanSK&show_icons=true&theme=tokyonight)
