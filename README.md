@@ -43,6 +43,24 @@
 - ✅ Forecasted trends & evaluated accuracy
 - ✅ Visualized forecasts with interactive plots
 
+### 📊 **BTC Price Prediction Streamlit App**
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-blue?style=for-the-badge&logo=github)](https://github.com/NirmalanSK/Streamlit-BTC-Price-Prediction)
+- ✅ Built a **Streamlit app** to predict BTC close price
+- ✅ Uses **Random Forest Regressor** with 4 features: `USDT_Close`, `USDT_Volume`, `BNB_Close`, `BNB_Volume`
+- ✅ Supports **manual input** for single predictions
+- ✅ Supports **CSV upload** for batch predictions
+- ✅ Implements **MinMaxScaler** for feature scaling
+- ✅ Users can **download prediction results**
+- ✅ Fully interactive and **user-friendly web interface**
+
+#### 🔗 Live Demo
+If you deploy the app on Streamlit Cloud, you can add a live badge:
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/Shehan/Streamlit-BTC-Price-Prediction/main/app.py)
+
+#### 📸 Screenshot
+![App Screenshot](images/btc_app_screenshot.png)
+
 ---
 
 ## 📊 GitHub Stats
