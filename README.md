@@ -59,7 +59,7 @@ If you deploy the app on Streamlit Cloud, you can add a live badge:
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/Shehan/Bitcoin-Price-Prediction-ML-with-Streamlit/main/app.py)
 
 #### 📸 Screenshot
-![App Screenshot](images/btc_app_screenshot.png)
+![App Screenshot](Screenshot 2025-09-15 134921.png)
 
 ---
 
